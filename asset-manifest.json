@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ChangeBackGroundColor/static/css/main.073c9b0a.css",
-    "main.js": "/ChangeBackGroundColor/static/js/main.b3e6e155.js",
+    "main.js": "/ChangeBackGroundColor/static/js/main.3d21fd53.js",
     "static/js/787.bdebe3dd.chunk.js": "/ChangeBackGroundColor/static/js/787.bdebe3dd.chunk.js",
     "static/media/logo.svg": "/ChangeBackGroundColor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ChangeBackGroundColor/index.html",
     "main.073c9b0a.css.map": "/ChangeBackGroundColor/static/css/main.073c9b0a.css.map",
-    "main.b3e6e155.js.map": "/ChangeBackGroundColor/static/js/main.b3e6e155.js.map",
+    "main.3d21fd53.js.map": "/ChangeBackGroundColor/static/js/main.3d21fd53.js.map",
     "787.bdebe3dd.chunk.js.map": "/ChangeBackGroundColor/static/js/787.bdebe3dd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b3e6e155.js"
+    "static/js/main.3d21fd53.js"
   ]
 }
